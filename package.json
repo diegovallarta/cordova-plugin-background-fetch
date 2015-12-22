@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-background-fetch",
-  "version": "1.0.0",
+  "version": "2.0.5",
   "cordova": {
     "id": "cordova-plugin-background-fetch",
     "platforms": [
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pebblecode/cordova-plugin-background-fetch.git"
+    "url": "git+https://github.com/diegovallarta/cordova-plugin-background-fetch.git"
   },
   "engines": [
     {
